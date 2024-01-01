@@ -1,7 +1,7 @@
 # MobileWallpapers
 Wallpapers for your mobile device, made with Midjourney.
 
-Aspect Ratio: 9:20
+Aspect Ratio: 9:20  
 Image Resolution: 1472 x 3264
 
 ## January 2024
